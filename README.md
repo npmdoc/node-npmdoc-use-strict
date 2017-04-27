@@ -1,6 +1,6 @@
 # npmdoc-use-strict
 
-#### api documentation for  [use-strict (v1.0.1)](https://github.com/isaacs/use-strict#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-use-strict.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-use-strict) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-use-strict.svg)](https://travis-ci.org/npmdoc/node-npmdoc-use-strict)
+#### basic api documentation for  [use-strict (v1.0.1)](https://github.com/isaacs/use-strict#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-use-strict.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-use-strict) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-use-strict.svg)](https://travis-ci.org/npmdoc/node-npmdoc-use-strict)
 
 #### Makes all modules in Node get loaded in strict mode.
 
@@ -58,7 +58,8 @@
     "scripts": {
         "test": "node test"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
